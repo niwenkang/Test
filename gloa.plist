@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.4.104:8080/DataSync/ipa/gloa.ipa</string>
+					<string>http://192.168.4.104:8080/DataSync/ipa/IosGlobal.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>gloa</string>
+				<string>IosGlobal</string>
 				<key>updateMSG</key>
 				<string>
 					
