@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>thFund.THWealthManage</string>
+				<string>thFund.</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Gloa</string>
+				<string>gloa</string>
 				<key>updateMSG</key>
 				<string>
 					
